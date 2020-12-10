@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Cody 👋
 
 - 🔭 I’m currently working on an employee Portal for my current employer
 - 🌱 I’m currently learning advanced React programming and trying to branch into Node and Java
