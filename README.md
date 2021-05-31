@@ -1,7 +1,7 @@
 ### Hey there, I'm Cody 👋
 
-- 🔭 I’m currently working on an employee Portal for my current employer
-- 🌱 I’m currently learning advanced React programming and trying to branch into Node and Java
+- 🔭 I’m maintaining an employee portal app for Province Pharmacy
+- 🌱 I’m currently learning Node and plan to move into Java next
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cody-dupuis) | [Twitter](https://twitter.com/cody_dupuis)
 - 💬 Check out my blogs on [Medium](https://ctdupuis7.medium.com)
 - ⚡ Fun fact: I like to somehow shoehorn a reference to my dog Milo in all of my side projects
